@@ -1,0 +1,1 @@
+bcdedit /set bootux disabled
